@@ -1,5 +1,3 @@
-<div align="center">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Zokla_Scropion&color=0e75b6&size=24&style=flat" alt="Mohamed Zokla" /> </p>
 
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+Mohamed+Zokla;Professional+Frontend+Developer+from+Egypt" />
