@@ -136,7 +136,7 @@ const expertise = {
 
 <div align="center">
 
-⭐ **Styled by AI** | **From [Zokla_Scorpion](https://github.com/mohamedzokla80) with 💙**
+⭐ **From [Zokla_Scorpion](https://github.com/mohamedzokla80) with 💙**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedzokla80&color=9933cc&style=flat-square&label=Profile+Views)
 
