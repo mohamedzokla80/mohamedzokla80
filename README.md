@@ -1,10 +1,14 @@
 <div align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Zokla_Scropion&color=0e75b6&size=24&style=flat" alt="Mohamed Zokla" /> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+Mohamed+Zokla;Professional+Frontend+Developer+from+Egypt" />
+</h3>
+---
+<div align="center">
+ <img height="300" alt="Coding"      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5Ym41eDMyMXM3a29jcG1wa21rODN5aTk1a210cDEwNXdwajBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif">
+</div>
 
-# Hi 👋, I'm Mohamed Zokla
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400"/>
 
 ### 🚀 Professional Frontend Developer from Egypt
 
