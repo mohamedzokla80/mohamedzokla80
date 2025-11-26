@@ -3,42 +3,52 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about building modern, responsive web applications  
-- 🎨 Specialized in frontend UI/UX development  
-- ⚡ Always learning and improving my skills  
-- 🌍 Open for remote & freelance opportunities  
+### 🚀 About Me  
+- 💻 Passionate Frontend Developer  
+- 🎯 I focus on clean UI, animations, and smooth user experiences  
+- 🌱 Always improving my skills and learning new technologies  
+- ⚡ I love creating modern and creative front-end projects  
 
 ---
 
-## 🛠️ Tech Stack / Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-</p>
+## 🛠️ Tech Stack & Tools  
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</div>
+
+### **Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+### **Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</div>
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzokla80&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzokla80&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📌 Featured Projects
+- 🌐 **Modern Websites**
+- 📱 **Responsive Designs**
+- 🎨 **Creative UI/UX**
+- ⚙️ **Functional Frontend Systems**
 
 ---
 
-## 📬 Contact Me
+## 📫 Contact Me
 - 📧 Email: **mohamedzokla80@gmail.com**  
-- 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(add your portfolio site if available)*  
+- 💼 LinkedIn: Coming Soon  
+- 🌍 Portfolio: Coming Soon  
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub! ⭐</h3>
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories.
