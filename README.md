@@ -44,7 +44,7 @@ const expertise = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,html,css" alt="Frontend Skills" />
 </p>
 
 ### Styling & Design
