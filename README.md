@@ -54,7 +54,7 @@ const expertise = {
 
 ### Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=reactnative,php,mysql,postman,git,github" alt="Backend & Tools" />
 </p>
 
 </div>
