@@ -49,7 +49,7 @@ const expertise = {
 
 ### Styling & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,motion,shadcn,sass,figma" alt="Styling Skills" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" alt="Styling Skills" />
 </p>
 
 ### Backend & Tools
