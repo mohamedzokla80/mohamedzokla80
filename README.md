@@ -52,10 +52,7 @@ const expertise = {
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" alt="Styling Skills" />
 </p>
 
-### Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=reactnative,php,mysql,postman,git,github" alt="Backend & Tools" />
-</p>
+
 
 </div>
 
@@ -74,13 +71,7 @@ const expertise = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzokla80&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📫 Let's Connect!
 
